@@ -1,8 +1,6 @@
 # Automated GitOps Deployment on AWS (EKS + ArgoCD)
 
-Created by Sakshi Pardeshi
-
-AWS Account ID: 142039336074
+Created by Prathamesh Waingade
 
 Tech Stack:
 - AWS EKS
